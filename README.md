@@ -1,15 +1,13 @@
-# pkg-name
+## starter-ts
+forked by [antfu/starter-ts](https://github.com/antfu/vitesse)
 
-[![NPM version](https://img.shields.io/npm/v/pkg-name?color=a1b858&label=)](https://www.npmjs.com/package/pkg-name)
+## GitHub Template
+[Create a repo from this template on GitHub.](https://github.com/Simon-He95/starter-ts/generate)
 
-## Sponsors
-
-<p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/antfu/static/sponsors.svg">
-    <img src='https://cdn.jsdelivr.net/gh/antfu/static/sponsors.svg'/>
-  </a>
-</p>
-
-## License
-
-[MIT](./LICENSE) License © 2022 [Anthony Fu](https://github.com/antfu)
+## Clone to local
+If you prefer to do it manually with the cleaner git history
+```
+npx degit Simon-He95/starter-ts my-starter-ts-app
+cd my-vitesse-app
+pnpm i # If you don't have pnpm installed, run: npm install -g pnpm
+```
