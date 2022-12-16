@@ -33,6 +33,9 @@
       ]
     }
   },
+  "bin": {
+    "run": "./cli.mjs"
+  },
   "files": [
     "dist"
   ],
