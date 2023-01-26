@@ -7,12 +7,12 @@
   "author": "Simon He",
   "license": "MIT",
   "funding": "https://github.com/sponsors/Simon-He95",
-  "homepage": "https://github.com/Simon-He95/pkg-name#readme",
+  "homepage": "https://github.com/Simon-He95/vitesse#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Simon-He95/pkg-name.git"
+    "url": "git+https://github.com/Simon-He95/vitesse.git"
   },
-  "bugs": "https://github.com/Simon-He95/pkg-name/issues",
+  "bugs": "https://github.com/Simon-He95/vitesse/issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {
@@ -54,7 +54,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "lazy-js-utils": "^0.0.8"
+    "lazy-js-utils": "^0.0.24"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^0.25.1",
