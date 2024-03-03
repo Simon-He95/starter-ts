@@ -1,3 +1,15 @@
-import simon_he from '@simon_he/eslint-config'
+// @ts-check
+import antfu from '@antfu/eslint-config'
 
-export default simon_he({})
+export default antfu(
+  {
+    ignores: [
+      // eslint ignore globs here
+    ],
+  },
+  {
+    rules: {
+      // overrides
+    },
+  },
+)
