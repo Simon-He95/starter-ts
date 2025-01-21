@@ -2,7 +2,6 @@
   "name": "vitesse",
   "type": "module",
   "version": "0.0.1",
-  "packageManager": "pnpm@7.33.7",
   "description": "",
   "author": "Simon He",
   "license": "MIT",
