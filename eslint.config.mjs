@@ -7,8 +7,6 @@ export default antfu(
     ],
   },
   {
-    rules: {
-      // overrides
-    },
+    rules: {},
   },
 )
